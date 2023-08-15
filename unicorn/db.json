@@ -1,0 +1,45 @@
+{
+    "games": [
+        {
+            "name": "PinkUnicorn",
+            "price": 25.5,
+            "stock": 5,
+            "color":"pink"
+        },
+        {
+           "name": "PurpleUnicorn",
+            "price": 25.5,
+            "stock": 5,
+            "color":"purple"
+        },
+        {
+            "name": "blueUnicorn",
+            "price": 25.5,
+            "stock": 5,
+            "color":"blue"
+        }
+    ],
+    "sales": [
+        {
+            "buyer": "Camille",
+            "date": "2021-01-02T10:17:35.457+00:00",
+            "quantity": 1,
+            "total": 25.5,
+            "game": "64db2630a762f264e8a2158e"
+        },
+        {
+            "buyer": "Laurent",
+            "date": "2022-01-02T13:26:15.457+00:00",
+            "quantity": 1,
+            "total": 25.5,
+            "game": "64db2630a762f264e8a2158f"
+        },
+        {
+            "buyer": "Laurent",
+            "date": "2023-01-02T15:49:27.457+00:00",
+            "quantity": 1,
+            "total": 25.5,
+            "game": "64db2630a762f264e8a2158f"
+        }
+    ]
+}
